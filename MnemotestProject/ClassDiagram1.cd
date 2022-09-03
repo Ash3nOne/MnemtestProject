@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MnemotestProject.Attempt">
+    <Position X="9" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAhAAAAAAAAAECAEAAAACAAACAQAAAAAAAIAA=</HashCode>
+      <FileName>Model\Attempt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MnemotestProject.Mnemotest">
+    <Position X="11.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ASAQQAABAgAAAiSGABiABAgAAEAABAABAAAIAAiAAAA=</HashCode>
+      <FileName>Model\Mnemotest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MnemotestProject.Model.MnemotestDB">
+    <Position X="7" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAoAAAAAABAIAQAAEAAAAAAAAAQAAEA=</HashCode>
+      <FileName>Model\MnemotestDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MnemotestProject.MnemotestParameters">
+    <Position X="2.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAgAAAAAEIAAAAAAAgABAAAAAAgAFAAAA=</HashCode>
+      <FileName>Model\MnemotestParameters.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MnemotestProject.Model.Person">
+    <Position X="5.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAACAAEAAAAAAAAABAAAAAAAAAAAAABg=</HashCode>
+      <FileName>Model\Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MnemotestProject.Presenter.MnemotestPresenter">
+    <Position X="0.5" Y="1.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>BACAAAABBiAAACCBAAAADAADgEAAJYAAAAAAoAhAAAA=</HashCode>
+      <FileName>Presenter\MnemotestPresenter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MnemotestProject.MainWindow">
+    <Position X="3.25" Y="5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>EI0HAUJEQmcDBICKANGMEPcOFCgh4ZAAIYJBnQPAahs=</HashCode>
+      <FileName>View\MainWindow.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="MnemotestProject.View.IViewMnemotest">
+    <Position X="7.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAEAAAAAAAACAAEEIAAEAAAABABAAAAAAgAFAABg=</HashCode>
+      <FileName>View\IViewMnemotest.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
